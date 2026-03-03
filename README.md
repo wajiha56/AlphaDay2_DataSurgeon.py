@@ -32,6 +32,10 @@ The dataset contains missing values, typos, and extreme outliers, simulating a r
 | 111      | 2026-01-10 | North  | Electronics | Smartphone | NaN    | 1       | 5000   |
 | 112      | 2026-01-15 | West   | Office      | Paper      | 1200   | 5000    | 300    |
 | 113      | 2026-01-20 | East   | Furniture   | Chair      | 8500   | NaN     | 600    |
+| 114      | 2026-01-22 | North  | Electronics | Laptop     | 120000 | 1       | 15000  |
+| 115      | 2026-01-25 | South  | Electronics | Tablet     | NaN    | 2       | 8000   |
+| 116      | 2026-01-28 | West   | Office      | Pen        | 500    | 10      | 100    |
+| 117      | 2026-02-01 | East   | Furniture   | Desk       | 25000  | 1       | -500   |
 
 ---
 
