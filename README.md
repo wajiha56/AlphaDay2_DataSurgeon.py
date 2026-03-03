@@ -99,3 +99,17 @@ AlphaDay2_DataSurgeon/
 │   └── Fiverr_Research.txt
 ├── README.md
 └── requirements.txt
+
+### ⚡ How to Run
+
+Clone the repository:
+
+git clone https://github.com/yourusername/AlphaDay2_DataSurgeon.git
+
+### Install dependencies:
+
+pip install -r requirements.txt
+
+### Run the script:
+
+python scripts/AlphaDay2_DataSurgeon.py
